@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TennyPriya
 - 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... microsoft azure
+- 🌱 I’m currently learning ... machine learning
 - 📫 How to reach me ... chandhalurutennypriya@gmail.com
 
 <!---
